@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 I’m studying at the Hebrew University in Jerusalem.<br>🔭 I’m currently working on University projects.<br>🌱 I’m currently learning Object Oriented Programming<br>💬 Ask me about Pixel art!
+🎓 I’m studying at the Hebrew University in Jerusalem.<br>🔭 I’m currently working on University projects.💬 Ask me about Pixel art!
 
 
 ## 🌐 Socials:
